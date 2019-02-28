@@ -1,0 +1,12 @@
+#gameScreen{
+    border: 1px solid black;
+    margin-left: 250px ;
+    margin-top: 10px;
+    background: #fff;
+}
+body{
+    background: lightgray;    
+}
+#img_ball{
+    display: none;
+}
